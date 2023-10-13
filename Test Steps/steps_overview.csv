@@ -1,0 +1,9 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Successful Login and Navigation to Cart Page,"step 1: Login at Page home
+step 2: Navigate to Page home
+step 3: At Page home click on div root
+step 4: At Page home click on hyperlink object --> navigate to Page cart html
+step 5: Add visual checkpoint at Page cart html",High
+2,Verify Successful Login and Navigation to Checkout Complete Page,"step 1: Login at Page home --> navigate to Page checkout-complete html
+step 2: Navigate to Page checkout-complete html
+step 3: Add visual checkpoint at Page checkout-complete html",Trivial

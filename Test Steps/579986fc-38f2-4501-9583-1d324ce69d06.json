@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Login at Page home",
+        "step 2: Navigate to Page home",
+        "step 3: At Page home click on div root",
+        "step 4: At Page home click on hyperlink object --> navigate to Page cart html",
+        "step 5: Add visual checkpoint at Page cart html"
+    ]
+}
